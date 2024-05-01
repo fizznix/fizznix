@@ -44,7 +44,7 @@ npx nixonkurian
 
 
 
-  ![Nixon's stats](https://github-readme-stats.vercel.app/api?username=fizznix&show_icons=true&theme=dark)
+  ![Nixon's stats](https://github-readme-stats.vercel.app/api?username=fizznix&show_icons=true&theme=white)
 
 
 
