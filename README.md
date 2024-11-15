@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Scarface69420&label=Profile%20views&color=0e75b6&style=flat" alt="mszeles" /> </p>
 
-## Software Engineer | GenAI Developer | AI Explorer
+## GenAI Developer | Software Engineer | AI Explorer
 
 I'm passionate about leveraging artificial intelligence to solve complex problems and create innovative solutions. Currently, I'm diving deep into the AI space, exploring its potential and pushing the boundaries of what's possible.
 
