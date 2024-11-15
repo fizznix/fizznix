@@ -1,34 +1,44 @@
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
+</div>
 
-I'm a tech virtuoso fueled by a relentless passion for unraveling complex problems, crafting elegant code, architecting innovative applications, and navigating the ever-evolving frontier of technology.
+## 𝐇𝐞𝐥𝐥𝐨, I'm < nixon />! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Scarface69420&label=Profile%20views&color=0e75b6&style=flat" alt="mszeles" /> </p>
 
+## Software Engineer | GenAI Developer | AI Explorer
+
+I'm passionate about leveraging artificial intelligence to solve complex problems and create innovative solutions. Currently, I'm diving deep into the AI space, exploring its potential and pushing the boundaries of what's possible.
+
+## 🚀 What I'm up to
+
+
+- 🧠 Exploring the latest advancements in AI and machine learning
+- 🤖 Experimenting with Generative AI models
+- 💻 Developing cutting-edge software solutions
+- 🌐 Contributing to open-source projects and building custom tools
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon&logoColor=yellow)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Scarface69420" alt="mszeles" /></a> </p> -->
+<br>
 
 <p align="left"> <a href="https://twitter.com/KurianNixon" target="blank"><img src="https://img.shields.io/twitter/follow/KurianNixon?logo=twitter&style=flat" width=175 alt="KurianNixon" /></a> </p>
 
-* I'm immersing myself in the captivating world of Generative AI and Large Language Models
-* I'm constantly learning and upskilling
-* Exploring the AI landscape 
-
-<br/>
-
-👇 Hit in your console or terminal 
-
-```bash
-npx nixonkurian
-```
-
-<br />
-
 
 ----
-<div align="center">   
-  <h3>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 </h3> 
-  <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200.webp?cid=ecf05e47qzdncmkkfxncku5j676ecfh10g9xgetoug67pw74&rid=200.webp&ct=s" width="50"> <img src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47evppwc94cpfmj1c3rm06yw747eok5qtgfyfk84he&rid=200w.webp&ct=s" width="50"> <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp?cid=ecf05e47erc42k76ahya06jjjykhmwqc3miu3k48x40pb1e3&rid=giphy.webp&ct=s" width="50"> <img src="https://media4.giphy.com/media/RJzm826vu7WbJvBtxX/200.webp?cid=ecf05e47evppwc94cpfmj1c3rm06yw747eok5qtgfyfk84he&rid=200.webp&ct=s" width="50">  <img src="https://media3.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp?cid=ecf05e47qzyihmkyxe6m8rl9p82ua41vuhnypi6a6ev7dvoh&rid=200.webp&ct=s" width="50"> <img src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e4771i5lgb8yqxfc8zq30qffy3o629h8dl8j0s89nbg&rid=100.webp&ct=s" width="70"> <img src="https://media4.giphy.com/media/jnDKffgCfGYOp6cMTK/200.webp?cid=ecf05e47orr1b9hbel20d9cg77nqnm6fhs6gywlytcjexv7g&rid=200.webp&ct=s" width="50" > <img src="https://img.shields.io/badge/-black?style=flat&logo=postgresql" width="60" alt="Postgresql"> <img src="https://img.shields.io/badge/-black?style=flat&logo=mongodb&label" width="60" alt="MongoDB">
-</div>
-<br/>
 
 <div align="center">
   <h2>Let's Connect :)</h2>
@@ -44,29 +54,5 @@ npx nixonkurian
 
 
 
-  ![Nixon's stats](https://github-readme-stats.vercel.app/api?username=fizznix&show_icons=true&theme=white)
+[ ![Nixon's stats](https://github-readme-stats.vercel.app/api?username=fizznix&show_icons=true&theme=white)](https://github-readme-stats.vercel.app/api?username=fizznix&show_icons=true&theme=radical)
 
-
-
-
-<!--
-**Scarface69420/Scarface69420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-(https://img.shields.io/github/followers/Scarface69420?label=Follow&style=social)
-<img src="https://media3.giphy.com/media/bx3Cvt88j7PtM4SOaS/200.webp?cid=ecf05e47agyes41kbucqjzoip9rzw6z2vl3ai47bfy14e04g&rid=200.webp&ct=s" width="35">
-[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
--->
